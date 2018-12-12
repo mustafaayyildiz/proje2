@@ -1,2 +1,3 @@
-05160000919 - İbrahim ÖZKURT
+<h1> PROJE 2 ÖDEVİ </h1>
+05160000919 - İbrahim ÖZKURT <br>
 05160000922 - Mustafa AYYILDIZ
