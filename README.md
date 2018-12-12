@@ -1,2 +1,2 @@
-# proje2
-Proje2
+05160000919 - İbrahim ÖZKURT
+05160000922 - Mustafa AYYILDIZ
